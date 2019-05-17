@@ -2782,20 +2782,20 @@ end TCL_Generic;
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="165" y="224"/>
       <rect height="4" stroke="none" width="10" x="170" y="118"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="165" y="124">HMS2</text>
-      <circ-port height="8" pin="120,60" width="8" x="46" y="56"/>
       <circ-port height="10" pin="990,450" width="10" x="175" y="115"/>
-      <circ-port height="8" pin="80,630" width="8" x="46" y="116"/>
       <circ-port height="8" pin="80,610" width="8" x="46" y="96"/>
-      <circ-port height="8" pin="80,650" width="8" x="46" y="136"/>
       <circ-port height="10" pin="990,380" width="10" x="175" y="95"/>
-      <circ-port height="8" pin="170,740" width="8" x="46" y="216"/>
       <circ-port height="8" pin="170,700" width="8" x="46" y="176"/>
-      <circ-port height="8" pin="170,720" width="8" x="46" y="196"/>
       <circ-port height="10" pin="990,220" width="10" x="175" y="55"/>
-      <circ-port height="10" pin="990,300" width="10" x="175" y="75"/>
       <circ-port height="10" pin="550,310" width="10" x="175" y="175"/>
-      <circ-port height="10" pin="550,460" width="10" x="175" y="195"/>
       <circ-port height="8" pin="120,100" width="8" x="46" y="76"/>
+      <circ-port height="10" pin="550,460" width="10" x="175" y="195"/>
+      <circ-port height="10" pin="990,300" width="10" x="175" y="75"/>
+      <circ-port height="8" pin="170,720" width="8" x="46" y="196"/>
+      <circ-port height="8" pin="170,740" width="8" x="46" y="216"/>
+      <circ-port height="8" pin="80,650" width="8" x="46" y="136"/>
+      <circ-port height="8" pin="80,630" width="8" x="46" y="116"/>
+      <circ-port height="8" pin="120,60" width="8" x="46" y="56"/>
       <circ-port height="10" pin="550,610" width="10" x="175" y="215"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="165" y="144"/>
       <rect height="4" stroke="none" width="10" x="170" y="138"/>
